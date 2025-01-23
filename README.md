@@ -28,3 +28,5 @@ Contributions are welcome! If you encounter issues or have feature requests, or 
 
 ---
 
+## Author
+- Karthik Aluguri
