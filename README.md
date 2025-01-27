@@ -1,6 +1,6 @@
 # RAG Example Project
 
-This repository demonstrates a Retrieval-Augmented Generation (RAG) pipeline using **Ollama**, **LangChain**, **Chroma (Weaviate)**, and Python. 
+This repository demonstrates a Retrieval-Augmented Generation (RAG) pipeline using **Ollama**, **LangChain**, **Chroma**, and Python. 
 
 ---
 
